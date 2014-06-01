@@ -1,5 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
 /* clearfix */
 .container:before,
 .container:after {
@@ -17,13 +16,13 @@
 }
 
 body {
-  font-family: 'Open Sans','Myriad Pro','Myriad',sans-serif;
+  font-family: 'Droid Sans','Myriad Pro','Myriad',sans-serif;
   color: #1D1313;
   font-weight: 300;
 }
 
 h1, h2, h3, h4, ul dl dt {
-  font-family: 'Old Standard TT',serif;
+  font-family: 'Droid Sans',serif;
 }
 
 .container {

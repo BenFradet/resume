@@ -34,20 +34,19 @@
 
 ### Technical
 
-1. Programming Languages
-  * C#
-  * Scala
-  * Java
-  * C/C++
-2. Databases
-  * Oracle
-  * PostgreSQL
-  * SQL Server
-  * SAP Hana
-  * MongoDB
-3. VCS
-  * Git
-  * SVN
-4. Web technologies
-  * AngularJS
-  * NodeJS
+1. C#
+1. Oracle
+1. Git / SVN
+1. Scala
+1. MongoDB
+1. AngularJS
+1. R
+1. Microsoft SQL Server
+1. NodeJS
+1. Python
+1. SAP Hana
+1. <br>
+1. Java
+1. PostgreSQL
+1. <br>
+1. C/C++
