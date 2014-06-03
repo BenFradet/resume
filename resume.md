@@ -38,10 +38,10 @@
 * **HearthStats** __Mar 2014 to present__
     [github.com/BenFradet/hearthstats](https://github.com/BenFradet/hearthstats)
     Web application built with the MEAN stack to manage and monitor your progress in [Heartstone](http://us.battle.net/hearthstone/en/).
+<br/>
 * **XNA games** __2011 to 2012__
     [github.com/BenFradet/OldXnaStuff](https://github.com/BenFradet/OldXnaStuff)
     2D and 3D mini games developed with the [XNA framework](http://en.wikipedia.org/wiki/Microsoft_XNA).
-
 
 ------
 
