@@ -25,6 +25,22 @@ h1, h2, h3, h4, ul dl dt {
   font-family: 'Droid Sans',serif;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a: hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
 .container {
   margin: 0 auto;
   padding: 0 0 40px 0;

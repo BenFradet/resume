@@ -9,25 +9,38 @@
 
 ### Education
 
-**Master in Computer Science focused on data science** __2009 to 2015__
+**Master in Computer Science focused on data science** __Sep 2009 to Jun 2015__
     University of Technology of Compiegne, Compiegne, France
 
-**Semester abroad studying image processing and biometrics** __2011__
+**Semester abroad studying image processing and biometrics** __Aug 2011 to Feb 2012__
     Hogskolan Dalarna, Borlange, Sweden
 
-**French baccalaureat concentration Mathematics with (high) distinction** __2009__
+**French baccalaureat concentration Mathematics with (high) distinction** __Jun 2009__
     Lycee Blaise Pascal, Chateauroux, France
 
 ------
 
 ### Experience
 
-**SAP** *Software engineer intern* __2013 to 2014__
-1. 
+**SAP** *Software engineer intern* __Feb 2013 to Feb 2014__
+    Made an internal testing tool compatible with new software running on SAP Hana.
+    Built a data warehouse and the dashboards/monitoring tools associated.
+    Developed a new way of visualizing internal processes.
+    **Technical environment** C#, Microsoft SQL Server, SAP Hana, WPF, WCF
 
 ------
 
 ### Projects
+
+* **RiotSharp** __Dec 2013 to present__
+    [github.com/BenFradet/RiotSharp](https://github.com/BenFradet/RiotSharp)
+    C# wrapper around the [Riot Games API](https://developer.riotgames.com).
+* **HearthStats** __Mar 2014 to present__
+    [github.com/BenFradet/hearthstats](https://github.com/BenFradet/hearthstats)
+    Web application built with the MEAN stack to manage and monitor your progress in [Heartstone](http://us.battle.net/hearthstone/en/).
+* **XNA games** __2011 to 2012__
+    [github.com/BenFradet/OldXnaStuff](https://github.com/BenFradet/OldXnaStuff)
+    2D and 3D mini games developed with the [XNA framework](http://en.wikipedia.org/wiki/Microsoft_XNA).
 
 
 ------
