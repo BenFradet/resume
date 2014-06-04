@@ -32,15 +32,13 @@
 
 ### Projects
 
-* **RiotSharp** __Dec 2013 to present__
-    [github.com/BenFradet/RiotSharp](https://github.com/BenFradet/RiotSharp)
+**[RiotSharp](https://github.com/BenFradet/RiotSharp)** __Dec 2013 to present__
     C# wrapper around the [Riot Games API](https://developer.riotgames.com).
-* **HearthStats** __Mar 2014 to present__
-    [github.com/BenFradet/hearthstats](https://github.com/BenFradet/hearthstats)
+
+**[HearthStats](https://github.com/BenFradet/hearthstats)** __Mar 2014 to present__
     Web application built with the MEAN stack to manage and monitor your progress in [Heartstone](http://us.battle.net/hearthstone/en/).
-<br/>
-* **XNA games** __2011 to 2012__
-    [github.com/BenFradet/OldXnaStuff](https://github.com/BenFradet/OldXnaStuff)
+
+**[XNA games](https://github.com/BenFradet/OldXnaStuff)** __2011 to 2012__
     2D and 3D mini games developed with the [XNA framework](http://en.wikipedia.org/wiki/Microsoft_XNA).
 
 ------
