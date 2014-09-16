@@ -37,7 +37,7 @@
 ### Projects
 
 <br>
-####Tutored projects
+####Tutored projects<!--LO23--><!--SY19--><!--PRDW-->
 
 **[ETLs](https://github.com/BenFradet/NF26)** __Feb 2014 to Jun 2014__
     Built two ETLs in SQL and PL/SQL as part of a course on data warehousing.<br>
