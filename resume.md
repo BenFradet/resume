@@ -11,11 +11,9 @@
 ### Education
 
 **Diplome d'ingenieur en informatique (Master in Computer Science) focused on data science and machine learning** __Sep 2009 to Jun 2015__
-    University of Technology of Compiegne, Compiegne, France
-
+    University of Technology of Compiegne, Compiegne, France<br>
 **Semester abroad studying image processing and biometrics** __Aug 2011 to Feb 2012__
-    Hogskolan Dalarna, Borlange, Sweden
-
+    Hogskolan Dalarna, Borlange, Sweden<br>
 **French baccalaureat concentration Mathematics with (high) distinction** __Jun 2009__
     Lycee Blaise Pascal, Chateauroux, France
 
@@ -38,11 +36,15 @@
 
 ### Projects
 
-##Tutored projects
+<br>
+####Tutored projects
 
+**[ETLs](https://github.com/BenFradet/NF26)** __Feb 2014 to Jun 2014__
+    Built two ETLs in SQL and PL/SQL as part of a course on data warehousing.<br>
+**[Data mining and data analysis course](https://github.com/BenFradet/SY09)** __Feb 2014 to Jun 2014__
+    Explored diverse techniques in data analysis, data mining and machine learning in R, notably: PCA, CA, KMeans, naive Bayes classifier, linear and quadratic discriminant analysis and logistic regression.<br>
 
-
-##Personal projects
+####Personal projects
 
 **[Iglu](https://github.com/snowplow/iglu)** __Jun 2014 to present__
     Continuation of my last internship with Snowplow Analytics as an open source contributor.<br>
@@ -67,7 +69,7 @@
 1. R
 1. Microsoft SQL Server
 1. <br>
-1. Python
+1. Python (pandas, NumPy, matplotlib)
 1. SAP Hana
 1. <br>
 1. Octave/Matlab/Scilab
