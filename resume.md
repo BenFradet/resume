@@ -37,21 +37,30 @@
 ### Projects
 
 <br>
-####Tutored projects<!--LO23--><!--SY19--><!--PRDW-->
+####Tutored projects
 
+**ETL and machine learning pipeline project** __Sep 2014 to present__
+    Building an ETL from real world retail data using Teradata technology.
+    Creating a recommender system and applying pattern recognition techniques to
+the same real world retail data.<br>
+**[Advanced data mining and machine learning course]()** __Sep 2014 to present__
+    Introduction to neural networks and SVM.<br>
+**[Serverless sudoku puzzles sharing app]()** __Sep 2014 to present__
+    Currently building a peer-to-peer sudoky puzzles sharing app in Java as
+project management exercice.<br>
 **[ETLs](https://github.com/BenFradet/NF26)** __Feb 2014 to Jun 2014__
     Built two ETLs in SQL and PL/SQL as part of a course on data warehousing.<br>
 **[Data mining and data analysis course](https://github.com/BenFradet/SY09)** __Feb 2014 to Jun 2014__
-    Explored diverse techniques in data analysis, data mining and machine learning in R, notably: PCA, CA, KMeans, naive Bayes classifier, linear and quadratic discriminant analysis and logistic regression.<br>
+    Explored diverse techniques in data analysis, data mining and machine learning in R, notably: PCA, KMeans, naive Bayes classifier, linear and quadratic discriminant analysis and logistic regression.<br><br>
 
 ####Personal projects
 
 **[Iglu](https://github.com/snowplow/iglu)** __Jun 2014 to present__
     Continuation of my last internship with Snowplow Analytics as an open source contributor.<br>
+**[benfradet.github.io](http://benfradet.github.io/)** __Apr 2014 to present__
+    Personal blog containing mostly machine learning related articles.<br>
 **[RiotSharp](https://github.com/BenFradet/RiotSharp)** __Dec 2013 to present__
     C# wrapper around the [Riot Games API](https://developer.riotgames.com).<br>
-**[XNA games](https://github.com/BenFradet/OldXnaStuff)** __2011 to 2012__
-    2D and 3D mini games developed with the [XNA framework](http://en.wikipedia.org/wiki/Microsoft_XNA).
 
 ------
 
