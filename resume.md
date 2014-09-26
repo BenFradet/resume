@@ -22,15 +22,15 @@
 ### Experience
 
 **Snowplow Analytics** *Software engineering intern* __Jun 2014 to Sep 2014__
-    Built a RESTful API which stores and validates JSON schemas.
-    [github.com/snowplow/iglu](https://github.com/snowplow/iglu)
-    **Technical environment** Scala, PostgreSQL, [Spray](http://spray.io/), [Akka](http://akka.io/), [Slick](http://slick.typesafe.com/), [Swagger](http://swagger.io/)<br>
+    Built a RESTful API for [Iglu](https://github.com/snowplow/iglu), a
+    machine-readable JSON schemas repository.
+    **Technical environment:** Scala, PostgreSQL, [Spray](http://spray.io/), [Akka](http://akka.io/), [Slick](http://slick.typesafe.com/), [Swagger](http://swagger.io/)<br>
 **SAP** *Software engineering intern* __Feb 2013 to Feb 2014__
     Made an internal testing tool compatible with new software running on SAP Hana.
     Built a data warehouse and the dashboards/monitoring tools associated.
     Developed a new way of visualizing internal processes.
-    Created a platformer game in a gamification effort.
-    **Technical environment** C#, Microsoft SQL Server, SAP Hana, WPF, WCF
+    Created a platformer game as a part of a gamification effort.
+    **Technical environment:** C#, Microsoft SQL Server, SAP Hana, WPF, WCF
 
 ------
 
@@ -39,17 +39,18 @@
 <br>
 ####Tutored projects
 
-**ETL and machine learning pipeline project** __Sep 2014 to present__
-    Building an ETL from real world retail data using Teradata technology.
+**Data warehouse and machine learning pipeline project** __Sep 2014 to present__
+    Building a data warehouse and the ETL process associated with real world
+retail data in partnership with Teradata.
     Creating a recommender system and applying pattern recognition techniques to
 the same real world retail data.<br>
 **[Advanced data mining and machine learning course]()** __Sep 2014 to present__
     Introduction to neural networks and SVM.<br>
 **[Serverless sudoku puzzles sharing app]()** __Sep 2014 to present__
-    Currently building a peer-to-peer sudoky puzzles sharing app in Java as
+    Currently building a peer-to-peer sudoky puzzles sharing app in Java as a
 project management exercice.<br>
-**[ETLs](https://github.com/BenFradet/NF26)** __Feb 2014 to Jun 2014__
-    Built two ETLs in SQL and PL/SQL as part of a course on data warehousing.<br>
+**[Data warehouses and ETLs](https://github.com/BenFradet/NF26)** __Feb 2014 to Jun 2014__
+    Built two data warehouses and the ETLs processes associated in SQL and PL/SQL.<br>
 **[Data mining and data analysis course](https://github.com/BenFradet/SY09)** __Feb 2014 to Jun 2014__
     Explored diverse techniques in data analysis, data mining and machine learning in R, notably: PCA, KMeans, naive Bayes classifier, linear and quadratic discriminant analysis and logistic regression.<br><br>
 
@@ -73,12 +74,13 @@ project management exercice.<br>
 1. Oracle
 1. AngularJS
 1. Java
-1. MongoDB
-1. NodeJS
+1. Teradata
+1. Node.js
 1. R
+1. MongoDB
+1. Express.js
+1. Python (pandas and NumPy)
 1. Microsoft SQL Server
 1. <br>
-1. Python (pandas, NumPy, matplotlib)
+1. Octave Scilab Matlab
 1. SAP Hana
-1. <br>
-1. Octave/Matlab/Scilab
