@@ -23,13 +23,13 @@
 
 **Snowplow Analytics** *Software engineering intern* __Jun 2014 to Sep 2014__
     Built a RESTful API for [Iglu](https://github.com/snowplow/iglu), a
-    machine-readable JSON schemas repository.
+    machine-readable JSON schemas repository
     **Technical environment:** Scala, PostgreSQL, [Spray](http://spray.io/), [Akka](http://akka.io/), [Slick](http://slick.typesafe.com/), [Swagger](http://swagger.io/)<br>
 **SAP** *Software engineering intern* __Feb 2013 to Feb 2014__
-    Made an internal testing tool compatible with new software running on SAP Hana.
-    Built a data warehouse and the dashboards/monitoring tools associated.
-    Developed a new way of visualizing internal processes.
-    Created a platformer game as a part of a gamification effort.
+    Made an internal testing tool compatible with new software running on SAP Hana
+    Built a data warehouse and the dashboards/monitoring tools associated
+    Developed a new way of visualizing internal processes
+    Created a platformer game as a part of a gamification effort
     **Technical environment:** C#, Microsoft SQL Server, SAP Hana, WPF, WCF
 
 ------
@@ -41,27 +41,29 @@
 
 **Data warehouse and machine learning pipeline project** __Sep 2014 to present__
     Building a data warehouse and the ETL process associated with real world
-retail data in partnership with Teradata.
+retail data in partnership with Teradata
     Creating a recommender system and applying pattern recognition techniques to
-the same real world retail data.<br>
-**[Advanced data mining and machine learning course]()** __Sep 2014 to present__
-    Introduction to neural networks and SVM.<br>
+the same real world retail data<br>
+**[Advanced data mining and machine learning class]()** __Sep 2014 to present__
+    Introduction to neural networks and SVM in R<br>
 **[Serverless sudoku puzzles sharing app]()** __Sep 2014 to present__
-    Currently building a peer-to-peer sudoky puzzles sharing app in Java as a
-project management exercice.<br>
+    Currently building a peer-to-peer sudoku puzzles sharing app in Java as a
+project management exercice (part of a team of 25 students)<br>
 **[Data warehouses and ETLs](https://github.com/BenFradet/NF26)** __Feb 2014 to Jun 2014__
-    Built two data warehouses and the ETLs processes associated in SQL and PL/SQL.<br>
+    Built two data warehouses and the ETLs processes associated in SQL and PL/SQL<br>
 **[Data mining and data analysis course](https://github.com/BenFradet/SY09)** __Feb 2014 to Jun 2014__
-    Explored diverse techniques in data analysis, data mining and machine learning in R, notably: PCA, KMeans, naive Bayes classifier, linear and quadratic discriminant analysis and logistic regression.<br><br>
+    Explored diverse techniques in data analysis, data mining and machine learning in R, notably: PCA, KMeans, naive Bayes classifier, linear and quadratic discriminant analysis and logistic regression<br><br>
 
 ####Personal projects
 
-**[Iglu](https://github.com/snowplow/iglu)** __Jun 2014 to present__
-    Continuation of my last internship with Snowplow Analytics as an open source contributor.<br>
+**[Iglu](https://github.com/snowplow/iglu)** __Sep 2014 to present__
+    Continuation of my last internship with Snowplow Analytics as an open source contributor<br>
+**[paymeback](https://github.com/BenFradet/paymeback)** __Sep 2014 to present__
+    Web application built on the MEAN stack for sharing expenses between friends<br>
 **[benfradet.github.io](http://benfradet.github.io/)** __Apr 2014 to present__
-    Personal blog containing mostly machine learning related articles.<br>
+    Personal blog containing mostly machine learning related articles<br>
 **[RiotSharp](https://github.com/BenFradet/RiotSharp)** __Dec 2013 to present__
-    C# wrapper around the [Riot Games API](https://developer.riotgames.com).<br>
+    C# wrapper around the [Riot Games API](https://developer.riotgames.com)<br>
 
 ------
 
