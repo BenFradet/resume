@@ -65,3 +65,11 @@ Jun 2009: **French baccalauréat concentration Mathematics with (high) distincti
 1. C#
 1. Akka
 1. Octave/Scilab/Matlab
+
+------
+
+### Activities
+
+Cross-training, swimming, running, handball, skiing/snowboarding
+Reading technical books (on machine learning and computer science)
+
