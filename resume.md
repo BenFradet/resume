@@ -34,7 +34,7 @@ Feb 2013 to Feb 2014: **Software engineer**, *SAP*
 Nov 2015 to present: **Kaggle competitions**
     Machine learning contests on [Kaggle](https://www.kaggle.com/)<br>
 Feb 2015 to present: **Open source contributions**
-    Diverse open source contributions to [Spark](http://spark.apache.org/) and [storehaus](https://github.com/twitter/storehaus)<br>
+    Diverse open source contributions to [Spark](http://spark.apache.org/) and [Twitter Storehaus](https://github.com/twitter/storehaus)<br>
 Apr 2014 to present: **[benfradet.github.io](http://benfradet.github.io/)**
     Personal blog containing mostly machine learning related articles<br>
 Dec 2013 to present: **[RiotSharp](https://github.com/BenFradet/RiotSharp)**
