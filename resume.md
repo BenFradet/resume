@@ -34,7 +34,7 @@ Feb 2013 to Feb 2014: **Software engineer**, *SAP*
 Nov 2015 to present: **Kaggle competitions**
     Machine learning contests on [Kaggle](https://www.kaggle.com/)<br>
 Feb 2015 to present: **Open source contributions**
-    Diverse open source contributions to [Spark](http://spark.apache.org/) and [Twitter Storehaus](https://github.com/twitter/storehaus)<br>
+    Diverse open source contributions on [Github](https://github.com/benfradet) to [Spark](https://github.com/apache/spark/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet) and other open source projects<br>
 Apr 2014 to present: **[benfradet.github.io](http://benfradet.github.io/)**
     Personal blog containing mostly machine learning related articles<br>
 Dec 2013 to present: **[RiotSharp](https://github.com/BenFradet/RiotSharp)**
@@ -70,6 +70,7 @@ Jun 2009: **French baccalauréat concentration Mathematics with (high) distincti
 
 ### Activities
 
-Cross-training, swimming, running, handball, skiing/snowboarding
-Reading technical books (on machine learning and computer science)
+Cross-training, swimming, running, handball, snowboarding
+Reading technical books (on machine learning and computer science in general)
+and heroic fantasy
 
