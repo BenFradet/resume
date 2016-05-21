@@ -34,7 +34,7 @@ Feb 2013 to Feb 2014: **Software engineer**, *SAP*
 Nov 2015 to present: **Kaggle competitions**
     Machine learning contests on [Kaggle](https://www.kaggle.com/)<br>
 Feb 2015 to present: **Open source contributions**
-    Diverse open source contributions on [Github](https://github.com/benfradet) to [Spark](https://github.com/apache/spark/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet) and other open source projects<br>
+    Diverse contributions on [Github](https://github.com/benfradet) to [Spark](https://github.com/apache/spark/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet) and other open source projects<br>
 Apr 2014 to present: **[benfradet.github.io](http://benfradet.github.io/)**
     Personal blog containing mostly machine learning related articles<br>
 Dec 2013 to present: **[RiotSharp](https://github.com/BenFradet/RiotSharp)**
