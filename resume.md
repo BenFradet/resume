@@ -9,7 +9,10 @@
 
 ### Experience
 
-Feb 2015 to present: **Data engineer**, *French ministry of Defense*
+Jan 2017 to present; **Data engineer**, *Snowplow Analytics*
+    Converting the existing Scalding jobs to Apache Spark
+    **Technical environment:** Scala, [Spark](http://spark.apache.org/), [Scalding](https://github.com/twitter/scalding), AWS<br>
+Feb 2015 to Dec 2016: **Data engineer**, *French ministry of Defense*
     Built the new stream processing platform based on Spark and Kafka
     Developed our custom ETL with Akka
     Worked with a legacy, Storm-based, stream processing platform
@@ -31,8 +34,8 @@ Feb 2013 to Feb 2014: **Software engineer**, *SAP*
 
 ### Projects
 
-Nov 2015 to present: **Kaggle competitions**
-    Machine learning contests on [Kaggle](https://www.kaggle.com/)<br>
+Aug 2016 to present: **[spark-kafka-writer](https://github.com/BenFradet/spark-kafka-writer)**
+    Writing Spark RDDs and DStreams to Kafka seamlessly<br>
 Feb 2015 to present: **Open source contributions**
     Diverse contributions on [Github](https://github.com/benfradet) to [Spark](https://github.com/apache/spark/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet) and other open source projects<br>
 Apr 2014 to present: **[benfradet.github.io](http://benfradet.github.io/)**
