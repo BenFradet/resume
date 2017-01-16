@@ -9,26 +9,22 @@
 
 ### Experience
 
-Jan 2017 to present; **Data engineer**, *Snowplow Analytics*
+Jan 2017 to present: **Data engineer**, *Snowplow Analytics* - remote
     Converting the existing Scalding jobs to Apache Spark
-    **Technical environment:** Scala, [Spark](http://spark.apache.org/), [Scalding](https://github.com/twitter/scalding), AWS<br>
-Feb 2015 to Dec 2016: **Data engineer**, *French ministry of Defense*
+    Technical environment: Scala, [Spark](http://spark.apache.org/), [Scalding](https://github.com/twitter/scalding), AWS<br>
+Feb 2015 to Dec 2016: **Data engineer**, *French ministry of Defense* - Paris, France
     Built the new stream processing platform based on Spark and Kafka
     Developed our custom ETL with Akka
     Worked with a legacy, Storm-based, stream processing platform
     Wrote Pig jobs
-    **Technical environment:** Scala, Java, [Spark](http://spark.apache.org/), [Kafka](http://kafka.apache.org/), [Akka](http://akka.io/), [Storm](http://storm.apache.org), [Pig](http://pig.apache.org)<br>
-Sep 2014 to Feb 2015: **Technical lead**, *Teradata - University of Technology of Compiègne*
-    Built a data warehouse and the ETL process associated with real world retail data
-    Applied pattern recognition techniques to the same real world retail data
-    **Techical environment:** SQL, R<br>
-Jun 2014 to Sep 2014: **Software engineer**, *Snowplow Analytics*
+    Technical environment: Scala, Java, [Spark](http://spark.apache.org/), [Kafka](http://kafka.apache.org/), [Akka](http://akka.io/), [Storm](http://storm.apache.org), [Pig](http://pig.apache.org)<br>
+Jun 2014 to Sep 2014: **Software engineer**, *Snowplow Analytics* - remote
     Built a RESTful API for [Iglu](https://github.com/snowplow/iglu), a machine-readable JSON schemas repository
-    **Technical environment:** Scala, PostgreSQL, [Spray](http://spray.io/), [Akka](http://akka.io/), [Slick](http://slick.typesafe.com/), [Swagger](http://swagger.io/)<br>
-Feb 2013 to Feb 2014: **Software engineer**, *SAP*
+    Technical environment: Scala, PostgreSQL, [Spray](http://spray.io/), [Akka](http://akka.io/), [Slick](http://slick.typesafe.com/), [Swagger](http://swagger.io/)<br>
+Feb 2013 to Feb 2014: **Software engineer**, *SAP* - Galway, Ireland
     Made an internal testing tool compatible with new software running on SAP Hana
     Built a data warehouse and the dashboards/monitoring tools associated
-    **Technical environment:** C#, Microsoft SQL Server, SAP Hana, WPF, WCF
+    Technical environment: C#, Microsoft SQL Server, SAP Hana, WPF, WCF
 
 ------
 
