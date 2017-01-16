@@ -1,4 +1,4 @@
-# Benjamin Fradet
+# Ben Fradet
 ## Data engineer
 
 > [github.com/BenFradet](https://github.com/BenFradet)
