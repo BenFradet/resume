@@ -1,5 +1,5 @@
 # Ben Fradet
-## Data engineer
+## Lead data engineer
 
 > [github.com/BenFradet](https://github.com/BenFradet)
 > [linkedin.com/in/benfradet](https://www.linkedin.com/in/benfradet)
@@ -9,9 +9,12 @@
 
 ### Experience
 
-Jan 2017 to present: **Data engineer**, *Snowplow Analytics* - remote
-    Converting the existing Scalding jobs to Apache Spark
-    Technical environment: Scala, [Spark](http://spark.apache.org/), [Scalding](https://github.com/twitter/scalding), AWS<br>
+<br><br>Jan 2017 to present: **Lead data engineer**, *Snowplow Analytics* - remote
+    Built the GCP pipeline from scratch
+    Built a seamless integration with Google Analytics
+    Refactored and maintained the AWS real-time and batch pipelines
+    Led and grew the open source community
+    Technical environment: Scala, AWS, GCP, Spark, Beam, Kafka<br>
 Feb 2015 to Dec 2016: **Data engineer**, *French ministry of Defense* - Paris, France
     Built the new stream processing platform based on Spark and Kafka
     Developed our custom ETL with Akka
@@ -30,12 +33,16 @@ Feb 2013 to Feb 2014: **Software engineer**, *SAP* - Galway, Ireland
 
 ### Projects
 
+<br><br>Aug 2017 to present: **[dashing](https://github.com/BenFradet/dashing)**
+    Dashboards to monitor the health of your open source organization<br>
+Apr 2017 to present: **[struct-type-encoder](https://github.com/BenFradet/struct-type-encoder)**
+    Deriving Spark DataFrame schemas from Scala case classes<br>
+Apr 2017 to present: **[gsheets4s](https://github.com/47deg/github4s)**
+    Maintainer of this functional wrapper around the GitHub REST API<br>
 Aug 2016 to present: **[spark-kafka-writer](https://github.com/BenFradet/spark-kafka-writer)**
     Writing Spark RDDs and DStreams to Kafka seamlessly<br>
-Feb 2015 to present: **Open source contributions**
+Feb 2015 to present: **open source contributions**
     Diverse contributions on [Github](https://github.com/benfradet) to [Spark](https://github.com/apache/spark/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet) and other open source projects<br>
-Apr 2014 to present: **[benfradet.github.io](http://benfradet.github.io/)**
-    Personal blog containing mostly machine learning related articles<br>
 Dec 2013 to present: **[RiotSharp](https://github.com/BenFradet/RiotSharp)**
     C# wrapper around the [Riot Games API](https://developer.riotgames.com)<br>
 
@@ -43,7 +50,7 @@ Dec 2013 to present: **[RiotSharp](https://github.com/BenFradet/RiotSharp)**
 
 ### Education
 
-Sep 2009 to Jun 2015: **Diplôme d'ingénieur en informatique (Master in Computer Science)**
+<br><br>Sep 2009 to Jun 2015: **Diplôme d'ingénieur en informatique (Master in Computer Science)**
     Focused on machine learning and data science: SVM, neural networks, KMeans, etc
     University of Technology of Compiègne, Compiègne, France<br>
 Aug 2011 to Feb 2012: **Semester abroad studying image processing and biometrics**
@@ -54,22 +61,19 @@ Jun 2009: **French baccalauréat concentration Mathematics with (high) distincti
 ------
 
 ### Technical
+<br>
 
 1. Scala
 1. Apache Spark
-1. Git
-1. Java
+1. Apache Beam
+1. Haskell
 1. Apache Kafka
-1. R
-1. C#
-1. Akka
-1. Octave/Scilab/Matlab
 
 ------
 
 ### Activities
 
-Cross-training, swimming, running, handball, snowboarding
-Reading technical books (on machine learning and computer science in general)
-and heroic fantasy
+<br><br>Running, cycling, snowboarding
+Reading technical books on computer science
+Real-time strategy video games
 
