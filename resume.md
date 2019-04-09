@@ -9,12 +9,14 @@
 
 ### Experience
 
-<br><br>Jan 2017 to present: **Lead data engineer**, *Snowplow Analytics* - remote
-    Built the GCP pipeline from scratch
+<br>Jan 2017 to present: **Lead data engineer**, *Snowplow Analytics* - remote
+    Created the data pipeline on GCP
+    Started the dockerization effort with [snowplow-docker](https://github.com/snowplow/snowplow-docker)
+    Designed and implemented a new approach to data quality and data recovery
+    Refactored and maintained the AWS and Kafka real-time pipelines as well as the batch pipeline
     Built a seamless integration with Google Analytics
-    Refactored and maintained the AWS real-time and batch pipelines
-    Led and grew the open source community
-    Technical environment: Scala, AWS, GCP, Spark, Beam, Kafka<br>
+    Led and grew the open source community in the [snowplow/snowplow repository](https://github.com/snowplow/snowplow) and others
+    Technical environment: Scala, [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Spark](http://spark.apache.org/), [Beam](https://beam.apache.org/), [Kafka](http://kafka.apache.org/)<br>
 Feb 2015 to Dec 2016: **Data engineer**, *French ministry of Defense* - Paris, France
     Built the new stream processing platform based on Spark and Kafka
     Developed our custom ETL with Akka
@@ -26,31 +28,32 @@ Jun 2014 to Sep 2014: **Software engineer**, *Snowplow Analytics* - remote
     Technical environment: Scala, PostgreSQL, [Spray](http://spray.io/), [Akka](http://akka.io/), [Slick](http://slick.typesafe.com/), [Swagger](http://swagger.io/)<br>
 Feb 2013 to Feb 2014: **Software engineer**, *SAP* - Galway, Ireland
     Made an internal testing tool compatible with new software running on SAP Hana
-    Built a data warehouse and the dashboards/monitoring tools associated
+    Built a data warehouse and the dashboarding tools associated
     Technical environment: C#, Microsoft SQL Server, SAP Hana, WPF, WCF
 
 ------
 
 ### Projects
 
-<br><br>Aug 2017 to present: **[dashing](https://github.com/BenFradet/dashing)**
-    Dashboards to monitor the health of your open source organization<br>
-Apr 2017 to present: **[struct-type-encoder](https://github.com/BenFradet/struct-type-encoder)**
-    Deriving Spark DataFrame schemas from Scala case classes<br>
-Apr 2017 to present: **[gsheets4s](https://github.com/47deg/github4s)**
-    Maintainer of this functional wrapper around the GitHub REST API<br>
-Aug 2016 to present: **[spark-kafka-writer](https://github.com/BenFradet/spark-kafka-writer)**
-    Writing Spark RDDs and DStreams to Kafka seamlessly<br>
-Feb 2015 to present: **open source contributions**
-    Diverse contributions on [Github](https://github.com/benfradet) to [Spark](https://github.com/apache/spark/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet) and other open source projects<br>
-Dec 2013 to present: **[RiotSharp](https://github.com/BenFradet/RiotSharp)**
-    C# wrapper around the [Riot Games API](https://developer.riotgames.com)<br>
+<br>**Creator:**
+    [dashing](https://github.com/BenFradet/dashing): dashboards to monitor the health of your open source organization
+    [gsheets4s](https://github.com/benfradet/gsheets4s): Scala wrapper around the Google Sheets API
+    [struct-type-encoder](https://github.com/BenFradet/struct-type-encoder): deriving Spark DataFrame schemas from Scala case classes
+    [spark-kafka-writer](https://github.com/BenFradet/spark-kafka-writer): writing Spark RDDs and DStreams to Kafka seamlessly
+    [RiotSharp](https://github.com/BenFradet/RiotSharp): C# wrapper around the [Riot Games API](https://developer.riotgames.com)<br>
+**Maintainer:**
+    [github4s](https://github.com/47deg/github4s): a GitHub API wrapper written in Scala
+    [circe-fs2](https://github.com/circe/circe-fs2): streaming JSON parsing and decoding with fs2<br>
+**Contributor:**
+    [unison](https://github.com/unisonweb/unison/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet)
+    [scio](https://github.com/spotify/scio/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet)
+    [spark](https://github.com/apache/spark/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet)
 
 ------
 
 ### Education
 
-<br><br>Sep 2009 to Jun 2015: **Diplôme d'ingénieur en informatique (Master in Computer Science)**
+<br>Sep 2009 to Jun 2015: **Diplôme d'ingénieur en informatique (Master in Computer Science)**
     Focused on machine learning and data science: SVM, neural networks, KMeans, etc
     University of Technology of Compiègne, Compiègne, France<br>
 Aug 2011 to Feb 2012: **Semester abroad studying image processing and biometrics**
@@ -65,15 +68,18 @@ Jun 2009: **French baccalauréat concentration Mathematics with (high) distincti
 
 1. Scala
 1. Apache Spark
-1. Apache Beam
+1. Docker
 1. Haskell
+1. Apache Beam
+1. Terraform
+1. &nbsp;
 1. Apache Kafka
 
 ------
 
 ### Activities
 
-<br><br>Running, cycling, snowboarding
-Reading technical books on computer science
+<br>Cycling, bicycle touring, running, snowboarding
+Reading books on software engineering, decision-making, etc.
 Real-time strategy video games
 
