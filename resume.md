@@ -20,11 +20,11 @@
 Feb 2015 to Dec 2016: **Data engineer**, *French ministry of Defense* - Paris, France
     Built the new stream processing platform based on Spark and Kafka
     Developed our custom ETL with Akka
-    Worked with a legacy, Storm-based, stream processing platform
+    Maintained a legacy, Storm-based, stream processing platform
     Wrote Pig jobs
     Technical environment: Scala, Java, [Spark](http://spark.apache.org/), [Kafka](http://kafka.apache.org/), [Akka](http://akka.io/), [Storm](http://storm.apache.org), [Pig](http://pig.apache.org)<br>
 Jun 2014 to Sep 2014: **Software engineer**, *Snowplow Analytics* - remote
-    Built a RESTful API for [Iglu](https://github.com/snowplow/iglu), a machine-readable JSON schemas repository
+    Built a RESTful API for [Iglu](https://github.com/snowplow/iglu), a JSON schema repository
     Technical environment: Scala, PostgreSQL, [Spray](http://spray.io/), [Akka](http://akka.io/), [Slick](http://slick.typesafe.com/), [Swagger](http://swagger.io/)<br>
 Feb 2013 to Feb 2014: **Software engineer**, *SAP* - Galway, Ireland
     Made an internal testing tool compatible with new software running on SAP Hana
@@ -35,16 +35,17 @@ Feb 2013 to Feb 2014: **Software engineer**, *SAP* - Galway, Ireland
 
 ### Projects
 
-<br>**Creator:**
+<br>**Creator**
     [dashing](https://github.com/BenFradet/dashing): dashboards to monitor the health of your open source organization
     [gsheets4s](https://github.com/benfradet/gsheets4s): Scala wrapper around the Google Sheets API
     [struct-type-encoder](https://github.com/BenFradet/struct-type-encoder): deriving Spark DataFrame schemas from Scala case classes
     [spark-kafka-writer](https://github.com/BenFradet/spark-kafka-writer): writing Spark RDDs and DStreams to Kafka seamlessly
     [RiotSharp](https://github.com/BenFradet/RiotSharp): C# wrapper around the [Riot Games API](https://developer.riotgames.com)<br>
-**Maintainer:**
+**Maintainer**
+    [snowplow](https://github.com/snowplow/snowplow): analytics platform
     [github4s](https://github.com/47deg/github4s): a GitHub API wrapper written in Scala
     [circe-fs2](https://github.com/circe/circe-fs2): streaming JSON parsing and decoding with fs2<br>
-**Contributor:**
+**Contributor**
     [unison](https://github.com/unisonweb/unison/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet)
     [scio](https://github.com/spotify/scio/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet)
     [spark](https://github.com/apache/spark/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABenFradet)
